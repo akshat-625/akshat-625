@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @akshat-625
-- 👀 I’m interested in Competetive Programming and DSA!
-- 🌱 I’m currently learning in Pimpri Chinchwad College of Engineering, Pune.
-- 📫 How to reach me akshat.s.jhanwar@gmail.com or @akshatt.jhanwar ~ig
+# Hi, I'm Akshat Jhanwar 👋
+
+💻 Competitive Programmer | Full Stack Developer  
+🎓 B.Tech IT @ PCCOE Pune (Batch 2027)
+
+- 👀 Interested in Competitive Programming and Data Structures & Algorithms
+- 🌱 Currently studying at Pimpri Chinchwad College of Engineering, Pune
+- 💻 Solved 500+ coding problems across platforms
+- 📫 Reach me at: akshat.s.jhanwar@gmail.com
+- 📷 Instagram: @akshatt.jhanwar
+
+![snake gif](https://github.com/akshat-625/akshat-625/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 akshat-625/akshat-625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
