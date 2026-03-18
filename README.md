@@ -1,7 +1,10 @@
 # Hi, I'm Akshat Jhanwar 👋
 
 🎓 **B.Tech in Information Technology** — Pimpri Chinchwad College of Engineering, Pune (Batch 2027)
-💻 **Competitive Programmer | C++**
+
+💻 **Competitive Programmer | C++ Developer**
+ 
+🚀 **Open to Software Development Engineer (SDE) Intern Opportunities**
 
 * 👀 Interested in **Competitive Programming and Data Structures & Algorithms**
 * 💻 Solved **500+ algorithmic problems** across coding platforms
