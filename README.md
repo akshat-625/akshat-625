@@ -69,7 +69,7 @@ Tech Stack: **React, TypeScript, TailwindCSS, Supabase**
 
 * LinkedIn: https://www.linkedin.com/in/akshatjhanwar625/
 * Email: [akshat.s.jhanwar@gmail.com](mailto:akshat.s.jhanwar@gmail.com)
-* Instagram: @akshatt.jhanwar
+* Instagram: [@akshatt.jhanwar](https://www.instagram.com/akshatt.jhanwar/)
 
 
 
