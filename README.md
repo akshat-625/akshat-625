@@ -38,8 +38,6 @@ Solved **500+ problems** and participated in multiple contests.
 
 ---
 
-I enjoy building practical software that combines strong problem-solving with modern development tools.
-
 ## 🚀 Featured Projects
 
 ### 🌍 Swasthya Vayu — AI Air Quality Intelligence Platform
