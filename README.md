@@ -1,8 +1,6 @@
 # Hi, I'm Akshat Jhanwar 👋
 
 🎓 **B.Tech in Information Technology** — Pimpri Chinchwad College of Engineering, Pune (Batch 2027)
-
-💻 **Competitive Programmer | C++ Developer**
  
 🚀 **Open to Software Development Engineer (SDE) Intern Opportunities**
 
@@ -18,7 +16,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -31,12 +28,17 @@
 
 Solved **500+ problems** and participated in multiple contests.
 
-* LeetCode: https://leetcode.com/u/akshat-jhanwar/
-* CodeChef: https://www.codechef.com/users/akshat_jhanwar
-* Codeforces: https://codeforces.com/profile/akshat_jhanwar
-* HackerRank: https://www.hackerrank.com/profile/ajhawar770
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/akshat-jhanwar/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/akshat_jhanwar)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/akshat_jhanwar)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/ajhawar770)
 
 ---
+
+I enjoy building practical software that combines strong problem-solving with modern development tools.
 
 ## 🚀 Featured Projects
 
@@ -62,6 +64,16 @@ Tech Stack: **React, TypeScript, TailwindCSS, Supabase**
 
 ---
 
+## 🏆 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=akshat-625&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=akshat-625&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-625&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/akshat-625/akshat-625/blob/output/github-contribution-grid-snake.svg)
@@ -70,9 +82,9 @@ Tech Stack: **React, TypeScript, TailwindCSS, Supabase**
 
 ## 📬 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/akshatjhanwar625/
-* Email: [akshat.s.jhanwar@gmail.com](mailto:akshat.s.jhanwar@gmail.com)
-* Instagram: [@akshatt.jhanwar](https://www.instagram.com/akshatt.jhanwar/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/akshatjhanwar625/)
+* 📧 [Email](mailto:akshat.s.jhanwar@gmail.com)
+* 📷 [Instagram](https://www.instagram.com/akshatt.jhanwar/)
 
 
 
