@@ -62,16 +62,6 @@ Tech Stack: **React, TypeScript, TailwindCSS, Supabase**
 
 ---
 
-## 🏆 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=akshat-625&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=akshat-625&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-625&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/akshat-625/akshat-625/blob/output/github-contribution-grid-snake.svg)
